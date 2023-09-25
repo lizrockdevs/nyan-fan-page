@@ -1,0 +1,69 @@
+body {
+    background-color: #003366;
+    font-family: Arial, Helvetica, sans-serif;
+    width: 750px;
+    margin: auto;
+}
+
+h1 {
+    color: violet;
+    text-align: center;
+}
+
+#facts-section>h2 {
+    color: #33FF00;
+    text-decoration: underline #33FF00;
+}
+
+a {
+    color: white;
+
+}
+
+p {
+    color: white;
+}
+
+a:hover {
+    color: #FF0000;
+}
+
+img {
+    border-image: 15px;
+    border-color: turquoise;
+
+}
+
+table {
+    color: black;
+    border: 2px dashed white
+}
+
+tr,
+td {
+    background-color: blueviolet;
+    font-size: 15px;
+    margin-bottom: 5px;
+    padding: 5px;
+}
+
+#quotes-section>h2 {
+    color: #FF0000;
+    text-decoration: underline #FF0000;
+}
+
+#quotes-section {
+    color: white;
+    font-style: italic;
+}
+
+ul>li {
+    color: white;
+}
+
+#links-section>h2 {
+    color: #FF9900;
+    text-decoration: underline #FF9900;
+}
+
+/* color palate: #FF9900,#FFFF00,#33FF00,#003366,#FF0000,#FF9900; */
